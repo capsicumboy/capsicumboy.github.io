@@ -10,7 +10,7 @@ category: recipes
 Hello everyone and a WARM welcome to my new blog! I am going to start with a recipe that you may find interesting. This is a splendid well to use your chili peppers if you are, just like me, growing peppers!
 
 ## Chili Syrup Recipe
-This fiery hot syrup is both simple and very good. It is very tasty to drizzle the syrup on fresh berries (t.ex. strawberries, raspberries or blueberries), ice cream or on the apple slices in your favorite apple pie!
+This fiery hot syrup is both simple and very good. It is very tasty to drizzle the syrup on fresh berries (e.g., strawberries, raspberries or blueberries), ice cream or on the apple slices in your favorite apple pie!
 
 I made this chili syrup using one of my favorite chili peppers, namely the Carolina Reaper. The reaper belongs to the category of really hot chili peppers and have an incredibly good flavour, both in smell and taste, and that's what I really like it about it. Oh yeah, did you konw that it is also easy to grow in your apartment and provides plenty of fruit! Good news, right?! But of course you can make chili suryp on the whatever chili you want. If you don't grow chili for yourself, I recommend that you use regular red Habanero which is available to buy in almost every grocery store.
 
