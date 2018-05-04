@@ -16,7 +16,7 @@ Note, sugar suppresses  the heat of the chili pepper and if you use milder chili
 
 ### Instructions
 1. Pour the syrup in a glass jar.
-2. Cut chilifrukterna in half on the length (they should not seeded) and add with the cut surface down in the syrup. 
+2. Slice the peppers in half on the length (they should not be seeded) and add to the syrup with the cut surface down. 
 3. Press them down under the surface as best you can.
 4. Let the jar stand in the window for 4-6 weeks.
 5. Take away the fruits and pour over the syrup in a nice bottle or jar.
