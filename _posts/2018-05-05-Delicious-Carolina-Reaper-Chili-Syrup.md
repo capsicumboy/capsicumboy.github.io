@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Delicous Carolina Reaper Chili Syrup
+...
+
 Hello everyone and a WARM welcome to my new blog! I am going to start with a recipe that you may find interesting. This is a splendid well to use your chili peppers if you are, just like me, growing peppers!
 
 ## Chili Syrup Recipe
