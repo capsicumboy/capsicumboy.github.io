@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 published: true
 layout: post
 title: Growing Red Bell Peppers From Seed
