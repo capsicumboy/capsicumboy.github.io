@@ -7,5 +7,4 @@ category: growing
 
 ## How to Grow Red Bell Peppers From Seed Taken from a Pepper
 
-{% include youtubePlayer.html id=RBsrgBZESOQ %}
-
+{% include youtubePlayer.html id="RBsrgBZESOQ" %}
