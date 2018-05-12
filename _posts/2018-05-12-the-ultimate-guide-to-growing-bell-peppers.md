@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+title: The Ultimate Guide to Growing Bell Peppers
+category: growing
 ---
 ## Pepper Growing Tips
 Hey! I am back and I found this great ultimate guide to growing peppers! 
