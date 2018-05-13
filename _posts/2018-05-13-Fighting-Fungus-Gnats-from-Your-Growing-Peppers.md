@@ -20,7 +20,7 @@ A layer with sand on top of the soil in the pot was something I thought would so
 The traps is made in the form of small containers with a mixture of water, white wine vinegar and a few drops of dishwashing liquid. This is always a good thing. It is actually a lot of gnats who are attracted to the trap, jump down and never comes up again! However, ths will only hold the population at bay not kill them off totally!
 
 ## Vacuum cleaner
-To clear up in the fungus gnats you can pull out the vacuum cleaner and clean all the windows. You can also push the pot with the dammsugarslangen so that the flies fly up and then let them be swept away into the hose.
+To clear up in the fungus gnats you can pull out the vacuum cleaner and clean all the windows. You can also push the pot with the vacuum cleaner hose so that the flies fly up and then let them be swept away into the hose.
 
 ## Watering from the bottom up
 To water from below, that is to say to let the plant suck up the water from the keg, should be a good trick since fungus gnats likes a moist surfaces. However, it does not sound like a good way before the roots have grown so far down in the pot that they can easily can suck up the water. I will not, in other words start to use this strategy until the plants have grown properly. 
