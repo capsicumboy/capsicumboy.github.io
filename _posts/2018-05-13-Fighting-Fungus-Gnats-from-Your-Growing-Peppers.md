@@ -6,7 +6,8 @@ category: pests
 ---
 During the late winter and early spring is when most gardeners start seedlings indoors. That is, this is when the season actually is starting for a gardener, whether indoors or outdoors, or growing peppers or tomatoes. Well, any vegetable, really! Growing your own kitchen garden plants from seed is super rewarding and can allow you to enjoy unique vegetables. You can't buy ghost peppers in many super markets, can you?!
 
-![a](/images/fight-fungus-gnats-growing-peppers.jpg)
+![](/images/fight-fungus-gnats-growing-peppers.jpg)
+By John Tann from Sydney, Australia (Dark-winged Fungus Gnat) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
 
 To bad for me that the fungus gnats alreadey showed up a couple of weeks ago! But this year I've set a strategy to fight this buggers off! I know one thing that certainly works, but I have thought of resorting to it as a last resort if my other measures do not work. It ends up with the other words at the bottom of the list, as emergency measure.
 
