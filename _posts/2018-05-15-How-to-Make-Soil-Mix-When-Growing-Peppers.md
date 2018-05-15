@@ -16,8 +16,9 @@ This is the first one and this YouTube video really helps out! It explain how th
 {% include youtubePlayer.html id="FW8OrhAfeu0" %}
 
 Other useful posts by me:
-    - [How to Grow Red peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
+
+- [How to Grow Red peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
     
-    - [Fighting Fungus Gnats](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/)
+- [Fighting Fungus Gnats](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/)
     
-    - [Chili Syrup Recipe](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/) for when you need to know what to do with your harvest!
+- [Chili Syrup Recipe](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/) for when you need to know what to do with your harvest!
