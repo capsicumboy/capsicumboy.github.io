@@ -12,6 +12,6 @@ I am back! I found this video very informative now when I am planning to replant
 {% include youtubePlayer.html id="FW8OrhAfeu0" %}
 
 Other useful posts by me:
-    - [How to Grow Red peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
-    - [Fighting Fungus Gnats](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/)
-    - [Chili Syrup Recipe](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/) for when you need to know what to do with your harvest!
+    * [How to Grow Red peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
+    * [Fighting Fungus Gnats](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/)
+    * [Chili Syrup Recipe](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/) for when you need to know what to do with your harvest!
