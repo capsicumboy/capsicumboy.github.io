@@ -3,7 +3,7 @@ published: false
 ---
 Imagine a steaming hot spring roll, fried chicken, grilled chicken, chicken wings, chicken nuggets, hamburger etc. etc. All of these things taste MUCH better with some extra heat, don't you think?! In this post you find a simple hot sauce recipe. It makes use of the sweetness of tomatoes and sourness, as well as sweetness, from apples. 
 
-![Chili Sauce]("../images/chili-pepper-sauce-bottled-recipe.jpg" Bottled Chili Sauce and Vineager")
+![Chili Sauce](../images/chili-pepper-sauce-bottled-recipe.jpg "Bottled Chili Sauce and Vineager")
 
 
 
@@ -20,6 +20,7 @@ Imagine a steaming hot spring roll, fried chicken, grilled chicken, chicken wing
 1 tbsp chili powder
 1 tsp salt 
 
+![Tomatoes](.../images/chili-tomato-sauce-recipe.jpg "Tomatoes for Chili Sauce")
 
 ### Instructions
 Start by wash your chili peppers and tomatoes. 
