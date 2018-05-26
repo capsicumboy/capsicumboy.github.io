@@ -14,6 +14,8 @@ I made this chili syrup using one of my favorite chili peppers, namely the Carol
 
 Note, sugar suppresses  the heat of the chili pepper and if you use milder chili varieties such as Jalapeño or red pepper, I suspect that the heat would disappear altogether. Despite a really hot chili my chili syrup ended up with a moderate heat. I mean also ”normal” people can eat it. Not just chili heads and daredevil!  But all comes down on the amount of chili you use, of course!
 
+See my [Simple Chili Sauce Recipe](https://capsicumboy.github.io/A-Simple-Chili-Sauce-Recipe/) for more uses of your homegrown peppers!
+
 ### Ingredients
 * 1 cup white syrup
 * 5 g of Carolina reaper, or another chil, of the hotter type. Customize the weight to what strength you want to achieve. (Use about 20-25g if you use Habanero.)
@@ -28,3 +30,4 @@ Note, sugar suppresses  the heat of the chili pepper and if you use milder chili
 Make sure that you use the chili peppers. To throw chlli which is not poor is almost a crime...
 
 I hope you found this interesting and that you will follow my writings as you will find other uses of chili peppers as well as tips, tricks, and guides on how to grow chili peppers!
+
