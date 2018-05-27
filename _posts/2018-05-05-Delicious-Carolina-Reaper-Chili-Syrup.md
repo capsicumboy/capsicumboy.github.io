@@ -7,7 +7,7 @@ category: recipes
 
 Hello everyone and a WARM welcome to my new blog! I am going to start with a recipe that you may find interesting. This is a splendid well to use your chili peppers if you are, just like me, growing peppers!
 
-See my [Carolina Reaper Syrup](https://capsicumboy.github.io/Delicious-Carolina-Reaper-Chili-Syrup/) Recipe for more uses of chili peppers.
+See my [Simple Chili Sauce](https://capsicumboy.github.io/A-Simple-Chili-Sauce-Recipe/) Recipe for more uses of chili peppers.
 
 ## Chili Syrup Recipe
 This fiery hot syrup is both simple and very good. It is very tasty to drizzle the syrup on fresh berries (e.g., strawberries, raspberries or blueberries), ice cream or on the apple slices in your favorite apple pie!
