@@ -34,3 +34,5 @@ Add everything in a pot together with water and let it simmer under a lid for ab
 Pour the mixture into a blender and run until everything is finely divided, or pass through a fine mesh strainer. Pour the sauce mix back into the pot and add the remaining ingredients. 
 
 Simmer, stirring occasionally for 5 minutes. Pour in hot, well-cleaned bottles or cans. Seal. Let stand in the fridge for a couple of weeks to mature before it is eaten.
+
+I also found a very nice YouTube video on how to make chili sauce, see [this](https://capsicumboy.github.io/A-Chili-Sauce-Recipe-YouTube/) post.
