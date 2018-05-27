@@ -7,7 +7,7 @@ Imagine a steaming hot spring roll, fried chicken, grilled chicken, chicken wing
 
 ![Chili Sauce](../images/chili-pepper-sauce-bottled-recipe.jpg "Bottled Chili Sauce and Vineager")
 
-
+See my Delicious [Carolina Reaper Syrup](https://capsicumboy.github.io/Delicious-Carolina-Reaper-Chili-Syrup/) Recipe for more uses of chili peppers!
 
 ### Ingredients
 1 kg of ripe tomatoes
