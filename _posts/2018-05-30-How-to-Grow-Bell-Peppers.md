@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+title: How to Grow Bell Peppers
+category: growing
+layout: post
 ---
 ## How to Grow Bell Peppers at Home
 There are many species of pepper that don't grow particularly high, but still produces great fruits. These varieties are ideal vegetables to grow at home on the window sill. 
