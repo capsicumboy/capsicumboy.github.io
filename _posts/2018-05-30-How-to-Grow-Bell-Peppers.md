@@ -24,6 +24,8 @@ I always choose to start from seed for the simple reason that the supply of diff
 
 To germinate bell pepper seeds is very easy and they germinate very readily. It usually takes only a few days before you see the small plants. The young plants can unfortunately be a little sensitive. However, they are not hard to take care of but it is very important that they don't get too dry. The small plants can grow very slowly if they do not receive proper care. Try to make them a bit brighter if this is the case. They shall not be fattening before they are 15 cm high.
 
+See [this](http://www.tradewindsfruit.com/content/seed-germination-tips.htm) post for some nice information of seed germination.
+
 ## How to Care for Bell Pepper Plants
 Bell pepper plants are very easy to care for when they have crossed a certain size. Before this, they can as mentioned above be a little knocks knopp knot knots knotted. They want to be watered regularly so that they do not dry out completely but also do not want to be soaked. Use well drained soil so that the roots are never left standing in water. It is usually better that they are a little too dry than they are wet.
 
