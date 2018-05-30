@@ -32,7 +32,7 @@ They should be fertilized approximately every 14 days with a balanced fertilizer
 
 Paprikaplantor need relatively much space and I would recommend that you plant them in a pot that is minimum 20 cm. To give them room to create a large rotverk reduces the growth early in the season but will give you a more durable plant. Something that can be good when you grow them on the window sill.
 
-Wintering
+## Over-wintering Bell Peppers
 There are some pepper types that can live for several years and continuously produce peppers. Most types, however, is developed to provide a harvest during the a season and then die. More modern types are often developed for a shorter, more intense life cycle. If you want to have a paprikasort that you can hibernate and enjoy in several years, you should instead primarily look to the different types of Heirloom sweet peppers. These are more likely to be able to hibernate.
 
 In many cases, however, you'll see the peppers as a säsongsväxt which you plant anew each year. If you have artificial växtljus you can start new plants every month to continually have new plants which will start to give fruit when the elderly begin to die.
