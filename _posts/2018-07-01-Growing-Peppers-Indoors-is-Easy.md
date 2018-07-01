@@ -23,6 +23,10 @@ An example of a pure tasting exploision is the combination of chili, ginger and 
 
 Your homegrown chili peppers can be used in everything from sauces to grilled meat. Yes, in everything except pea soup, maybe. One of my favorite dishes is brown beans with the habanero type chili pepper known as "Chocolate Scotch Bonnet" together with roast pork. Yummy!
 
+Here's two example of how to utilize peppers:
+- [Chili Sauce](/A-Chili-Sauce-Recipe-YouTube/)
+- [Delicious Chili Sauce Recipe](/Delicious-Carolina-Reaper-Chili-Syrup/)
+
 In the chili pepper family there are different [species](https://en.wikipedia.org/wiki/Chili_pepper#Species_and_cultivars) that are commonly cultivated:capsicum annuum, capsicum baccatum, capsicum chinense, andcapsicum pubescens as well as a number of wild varieties. The heat ranges from weak to strong  and be found in all groups.
 
 ### Scoville Heat Units - the heat of the peppers
