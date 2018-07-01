@@ -11,8 +11,10 @@ Giving your plants food is important for them.  Your pepper plants are going to 
 
 {% include youtubePlayer.html id="N9Fjbhr3a48" %}
 
+Read my new post about [growing peppers](/_posts/2018-06-26-Growing-Peppers-is-Easy.md).
+
 See also my earlier posts on topics such:
-	- [how to grow red bell peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
-    - [How to Grow Carolina Reaper Peppers](https://capsicumboy.github.io/How-to-Grow-Carolina-Reaper-Peppers/)
-    - [How to Mix a Soil When Growing Peppers](https://capsicumboy.github.io/How-to-Make-Soil-Mix-When-Growing-Peppers/)
+- [how to grow red bell peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
+- [How to Grow Carolina Reaper Peppers](https://capsicumboy.github.io/How-to-Grow-Carolina-Reaper-Peppers/)
+- [How to Mix a Soil When Growing Peppers](https://capsicumboy.github.io/How-to-Make-Soil-Mix-When-Growing-Peppers/)
 
