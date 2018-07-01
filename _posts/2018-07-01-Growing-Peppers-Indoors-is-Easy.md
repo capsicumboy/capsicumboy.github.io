@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+title: Growing Peppers Indoors is Easy!
+category: growing
 ---
 Growing peppers are so much fun! Here comes some interesting information about chili and a bit growing tips! 
 
