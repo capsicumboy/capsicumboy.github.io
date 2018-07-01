@@ -7,6 +7,8 @@ layout: post
 ## How to Grow Bell Peppers at Home
 There are many species of pepper that don't grow particularly high, but still produces great fruits. These varieties are ideal vegetables to grow at home on the window sill. 
 
+See my latest post: [Growing Peppers Indoors is Easy](/Growing-Peppers-Indoors-is-Easy/) if you are interested in growing chili plants.
+
 You can have multiple plants in the same window, and they thrive very well together with different types of peppers. This is because they are related to each other and have similar preferences and growth habits.
 
 There are also a number of bell pepper varieties that grows very large. These can be appropriate in the corner of the balcony but does not fit well for indoor growing. Therefore, be careful to choose the right types. Avoid buying unlabeled seedlings if the salesperson can't say exactly what variety it is.
@@ -52,7 +54,7 @@ Bell pepper plants are very easy to care for when they have crossed a certain si
 
 They want to be watered regularly so that they do not dry out completely but also do not want to be soaked. Use well drained soil so that the roots are never left standing in water. It is usually better that they are a little too dry than they are wet.
 
-### Fertilzing Bell Peppers
+### Fertilizing Bell Peppers
 They should be fertilized approximately every 14 days with a balanced fertilizer. (20-20-20 [N-P-K](https://en.wikipedia.org/wiki/Labeling_of_fertilizer), is a good fertilzer). If you are using an unbalanced fertilizer can you get too much leave growth but no peppers, or the plant to stop growing too early and is fully focused on giving you the fruit. This gives a smaller harvest.
 
 See also the video post [Prunig and Fertilizing Peppers](https://capsicumboy.github.io/Pruning-and-Fertilizing-Pepper-Plants-for-Huge-Yields/) for a great guide to fertilizing for more peppers!
