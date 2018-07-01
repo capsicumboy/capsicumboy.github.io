@@ -1,6 +1,6 @@
 ---
 published: true
-title: Pruning and Fertilizing Pepper Plants
+title: Pruning and Fertilizing Pepper Plants for Bigger Yields!!!
 category: growing
 layout: post
 ---
