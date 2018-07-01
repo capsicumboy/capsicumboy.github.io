@@ -1,7 +1,10 @@
 ---
-published: false
+published: true
+title: Pruning and Fertilizing Pepper Plants
+category: growing
+layout: post
 ---
-## Pruning and Fertilzing Pepper Plants
+## Pruning and Fertilizing Pepper Plants
 
 Giving your plants food is important for them.  Your pepper plants are going to go through stress and, thus, need easy to access food. Check this YouTube guide to learn more:
 
