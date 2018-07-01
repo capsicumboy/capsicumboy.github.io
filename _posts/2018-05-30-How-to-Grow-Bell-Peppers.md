@@ -55,6 +55,8 @@ They want to be watered regularly so that they do not dry out completely but als
 ### Fertilzing Bell Peppers
 They should be fertilized approximately every 14 days with a balanced fertilizer. (20-20-20 [N-P-K](https://en.wikipedia.org/wiki/Labeling_of_fertilizer), is a good fertilzer). If you are using an unbalanced fertilizer can you get too much leave growth but no peppers, or the plant to stop growing too early and is fully focused on giving you the fruit. This gives a smaller harvest.
 
+See also the video post [Prunig and Fertilizing Peppers](https://capsicumboy.github.io/Pruning-and-Fertilizing-Pepper-Plants-for-Huge-Yields/) for a great guide to fertilizing for more peppers!
+
 A good [soil](https://capsicumboy.github.io/How-to-Make-Soil-Mix-When-Growing-Peppers/) mix is also good to have so that your peppers will have plenty of nutrients!
 
 Bell pepper plants need relatively much space and I would recommend that you plant them in a pot that is minimum 20 cm. To give them room to create a large rotverk reduces the growth early in the season but will give you a more durable plant. Something that can be good when you grow them on the window sill.
