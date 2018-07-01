@@ -9,3 +9,8 @@ Alright guys! Hope you've enjoyd my previous posts on growing peppers! I think g
 ## How to Grow Carolina Reapers
 
 {% include youtubePlayer.html id="InMoKYWbhgk" %}
+
+See also these posts for more information about growing peppers:
+
+    - [Pruning and Fertilizing Peppers](https://capsicumboy.github.io/Pruning-and-Fertilizing-Pepper-Plants-for-Huge-Yields/)
+    - [Fighting Fungus Gnats](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/)
