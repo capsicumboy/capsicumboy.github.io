@@ -17,6 +17,8 @@ This is the first one and this YouTube video really helps out! It explain how th
 
 Other useful posts by me:
 
+- [Growing Peppers Indoors is Easy](/growing-Peppers-Indoors-is-Easy/)
+
 - [How to Grow Red peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
     
 - [Fighting Fungus Gnats](https://capsicumboy.github.io/Fighting-Fungus-Gnats-from-Your-Growing-Peppers/)
