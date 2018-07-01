@@ -11,7 +11,7 @@ Giving your plants food is important for them.  Your pepper plants are going to 
 
 {% include youtubePlayer.html id="N9Fjbhr3a48" %}
 
-Read my new post about [growing peppers](/2018-07-01-Growing-Peppers-is-Easy/).
+Read my new post about [growing peppers](/Growing-Peppers-Indoors-is-Easy/).
 
 See also my earlier posts on topics such:
 - [how to grow red bell peppers](https://capsicumboy.github.io/Growing-Red-Bell-Peppers-From-Seed/)
